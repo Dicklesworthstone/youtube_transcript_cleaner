@@ -23,3 +23,8 @@ YouTube Transcript Cleaner is a simple web-based application that improves the r
 5. Click the 'Clean Transcript' button to process the transcript.
 6. The cleaned transcript will appear in the 'Cleaned Transcript' text area.
 7. You can download the cleaned transcript as a .txt file or view it in reader mode. Reader mode provides options to customize the viewing experience, including adjusting the font size and width, and switching between different fonts.
+
+
+## How I made it Quickly and Easily:
+
+[Transcript of Shared ChatGPT Conversation](https://chat.openai.com/share/ccefa576-b0af-49bf-8981-72bf78b45d69)
