@@ -2,16 +2,17 @@
 
 YouTube Transcript Cleaner is a simple web-based application that improves the readability of YouTube transcripts. It's designed to work best with transcripts obtained using the [Youtube Transcript Extractor Chrome Extension](https://chrome.google.com/webstore/detail/youtube-transcript-extrac/lclpibfglbkghjkdmpjkgehcnadcffdl).
 
-![Screenshot1](https://github.com/Dicklesworthstone/youtube_transcript_cleaner/blob/main/Screenshot1_2023-07-18%2014_58_00-Transcript%20Cleaner.png?raw=true)
-
-![Screenshot2](https://github.com/Dicklesworthstone/youtube_transcript_cleaner/blob/main/Screenshot2_2023-07-18%2014_58_06-Transcript%20Cleaner.png?raw=true)
-
-
 ## Features
 
 - Cleans transcripts by merging relevant lines and splitting text into sentences.
 - Provides a reader mode with adjustable settings such as font size, content width, and font selection.
 - Supports file upload and download for transcript cleaning.
+
+## Screenshots
+
+![Screenshot1](https://github.com/Dicklesworthstone/youtube_transcript_cleaner/blob/main/Screenshot1_2023-07-18%2014_58_00-Transcript%20Cleaner.png?raw=true)
+
+![Screenshot2](https://github.com/Dicklesworthstone/youtube_transcript_cleaner/blob/main/Screenshot2_2023-07-18%2014_58_06-Transcript%20Cleaner.png?raw=true)
 
 ## How to Use
 
